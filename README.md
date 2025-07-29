@@ -16,10 +16,6 @@ Problem 2 - Move all Zeroes to the End
  
 - Test file: problem2_test.py
 
- How to Run
-
-Make sure Python is installed on your system
-
 You can just run the test files like this:
 
 python problem1_test.py
