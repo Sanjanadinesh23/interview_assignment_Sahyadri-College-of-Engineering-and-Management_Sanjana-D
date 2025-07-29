@@ -1,7 +1,6 @@
 
 interview_assignment_Sahyadri-College-of-Engineering-and-Management_Sanjana-D
 
-Technical Assignment for Belc Interview Round 1
 
 This repo has both the coding problems that were given in the Belc interview assignment.
 
